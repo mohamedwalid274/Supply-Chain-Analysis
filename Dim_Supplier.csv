@@ -1,0 +1,16 @@
+Supplier_name_Key,Supplier name,Product_type_Key
+1,Supplier 1,1
+1,Supplier 1,2
+1,Supplier 1,3
+2,Supplier 2,2
+2,Supplier 2,1
+2,Supplier 2,3
+3,Supplier 3,2
+3,Supplier 3,1
+3,Supplier 3,3
+4,Supplier 4,2
+4,Supplier 4,1
+4,Supplier 4,3
+5,Supplier 5,2
+5,Supplier 5,3
+5,Supplier 5,1
